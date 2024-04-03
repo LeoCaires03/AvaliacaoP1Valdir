@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login FullTime</title>
+    <link rel="stylesheet" href="./assets/css/index.css">
+</head>
+<body>
+    <div class="login-page">
+        <div class="form">
+          <div class="login-form" id="login-form">
+            <p class="img"><img src="C:\Users\Aula\Desktop\Roteirizacao\Roteirizacao\assets\images\logo-rodape.png" alt="" width="105px"></p>
+            <input type="text" placeholder="E-mail..." id="txtEmail"/>
+            <span class="error" id="errorEmail" hidden>Por favor, informe este campo.</span>
+            <input type="password" placeholder="Senha..." id="txtSenha"/>
+            <span class="error" id="errorSenha" hidden>Por favor, informe este campo.</span>
+            <button onclick="login()">entrar</button>
+          </div>
+          <div id="loading" hidden>
+            <h2>Carregando...</h2>
+            <button onclick="cancel()">cancelar</button>
+          </div>
+        </div>
+      </div>
+</body>
+<script src="./assets/js/index.js"></script>
+</html>
