@@ -10,7 +10,7 @@
 
 <p align="center" display="flex">
   <img width="500px" src="screenshots/Login.jpeg" />
- <p>Tela de login </p>
+   Tela de login
   <img width="500px" src="screenshots/dashboard.jpeg" />
   <img width="500px" src="screenshots/motorista.jpeg" />
   <img width="500px" src="screenshots/roteirizacao.jpeg" />
