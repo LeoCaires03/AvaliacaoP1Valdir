@@ -9,8 +9,8 @@
 ## Screenshots
 
 <p align="center" display="flex">
-  <img width="200px" src="screenshots/Login.jpeg" />
-  <img width="200px" src="" />
-  <img width="200px" src="" />
-  <img width="200px" src="" />
+  <img width="500px" src="screenshots/Login.jpeg" />
+  <img width="500px" src="screenshots/dashboard.jpeg" />
+  <img width="500px" src="screenshots/motorista.jpeg" />
+  <img width="500px" src="screenshots/roteirizacao.jpeg" />
 </p>
